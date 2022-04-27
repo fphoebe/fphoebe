@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @fphoebe
 - 👀 I’m interested in website and application software development
 - 🌱 I’m currently learning python.
+- I trained in Apprentice Cloud LTD. We used project-based form of learning. 
+-
 - 💞️ I’m looking to collaborate on application projects.
 - 📫 How to reach me use @fphoebe36@gmail.com 
 
