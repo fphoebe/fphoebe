@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fphoebe
+- 👋 Hi, I’m Florence Phoebe.
 - 👀 I’m interested in website and application software development
 - 🌱 I’m currently learning python.
 - I trained in Apprentice Cloud LTD. We used project-based form of learning. 
